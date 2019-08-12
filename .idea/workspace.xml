@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf147bcd-bf6e-4fc9-ab3b-d0b8a5d055ae" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P7RJPjLPSxeke9MuOM0xsQMM7N" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TragamonedasTest.entregarPremioMockito">
+    <configuration name="TamborTest.girarTambor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.com.mercadolibre.tragamonedas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.com.mercadolibre.tragamonedas" />
+      <option name="MAIN_CLASS_NAME" value="ar.com.mercadolibre.tragamonedas.TamborTest" />
+      <option name="METHOD_NAME" value="girarTambor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TragamonedasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.com.mercadolibre.tragamonedas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.com.mercadolibre.tragamonedas" />
+      <option name="MAIN_CLASS_NAME" value="ar.com.mercadolibre.tragamonedas.TragamonedasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TragamonedasTest.entregarPremio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.com.mercadolibre.tragamonedas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.com.mercadolibre.tragamonedas" />
+      <option name="MAIN_CLASS_NAME" value="ar.com.mercadolibre.tragamonedas.TragamonedasTest" />
+      <option name="METHOD_NAME" value="entregarPremio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TragamonedasTest.entregarPremioMockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.com.mercadolibre.tragamonedas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.com.mercadolibre.tragamonedas" />
+      <option name="MAIN_CLASS_NAME" value="ar.com.mercadolibre.tragamonedas.TragamonedasTest" />
+      <option name="METHOD_NAME" value="entregarPremioMockito" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TragamonedasTest.verificarQueGirenLosTambores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.com.mercadolibre.tragamonedas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.com.mercadolibre.tragamonedas" />
+      <option name="MAIN_CLASS_NAME" value="ar.com.mercadolibre.tragamonedas.TragamonedasTest" />
+      <option name="METHOD_NAME" value="verificarQueGirenLosTambores" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TragamonedasTest.entregarPremioMockito" />
+        <item itemvalue="JUnit.TragamonedasTest.verificarQueGirenLosTambores" />
+        <item itemvalue="JUnit.TragamonedasTest" />
+        <item itemvalue="JUnit.TamborTest.girarTambor" />
+        <item itemvalue="JUnit.TragamonedasTest.entregarPremio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf147bcd-bf6e-4fc9-ab3b-d0b8a5d055ae" name="Default Changelist" comment="" />
+      <created>1565223075277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565223075277</updated>
+    </task>
+    <servers />
+  </component>
+</project>
