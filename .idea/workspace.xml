@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf147bcd-bf6e-4fc9-ab3b-d0b8a5d055ae" name="Default Changelist" comment="" />
+    <list default="true" id="cf147bcd-bf6e-4fc9-ab3b-d0b8a5d055ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +31,7 @@
   </component>
   <component name="ProjectId" id="1P7RJPjLPSxeke9MuOM0xsQMM7N" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -38,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TragamonedasTest.entregarPremioMockito">
+  <component name="RunManager" selected="JUnit.TragamonedasTest">
     <configuration name="TamborTest.girarTambor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="meli-base" />
       <extension name="coverage">
@@ -120,9 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TragamonedasTest" />
         <item itemvalue="JUnit.TragamonedasTest.entregarPremioMockito" />
         <item itemvalue="JUnit.TragamonedasTest.verificarQueGirenLosTambores" />
-        <item itemvalue="JUnit.TragamonedasTest" />
         <item itemvalue="JUnit.TamborTest.girarTambor" />
         <item itemvalue="JUnit.TragamonedasTest.entregarPremio" />
       </list>
@@ -140,5 +148,16 @@
       <updated>1565223075277</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
